@@ -18,3 +18,10 @@
 //   }
 // console.log(sum);
 
+// String Print in reverse
+let userString = prompt("Enter a string : ");
+let reverse = "";
+for(var i = userString.length - 1; i >= 0; i--){
+    reverse += userString[i];
+}
+console.log(reverse);
