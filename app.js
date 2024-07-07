@@ -1,7 +1,7 @@
 // 1. TABLE
 // var user = prompt("Enter a number : ");
 // for(var i = 1; i <= 10; i++){
-//     console.log(user * i);
+//     console.log(`${user} * ${i} =  ${user * i}`);
 // }
 
 
